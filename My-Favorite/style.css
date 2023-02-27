@@ -1,0 +1,33 @@
+html {
+  background: url(img/backGround.jpg) no-repeat center fixed;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(146, 45, 45);
+  margin: 100px;
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 600px;
+  margin: 25px auto;
+  padding: 30px 150px 50px;
+  border-radius: 15px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+h2 {
+  color: brown;
+  text-decoration-style: wavy;
+  text-decoration: underline;
+}
+
+h3 {
+  text-size-adjust: 10px;
+}
